@@ -13,8 +13,8 @@ def pregunta_01():
     Hola mundo cruel!
 
     """
-
-    return
+    result = "Hola mundo cruel!"
+    return result
 
 
 if __name__ == "__main__":
